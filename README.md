@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- My name is Robson Feitosa and I have experience (+5 years) in fullstack development with an emphasis on backend. Passionate about what I do developing complete applications in Typescript or GoLang languages.
+ 
 <!--
 **RobsonFeitosa/RobsonFeitosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
